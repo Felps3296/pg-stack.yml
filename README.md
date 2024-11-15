@@ -58,3 +58,12 @@ Este repositório configura um ambiente de desenvolvimento com **PostgreSQL** e 
    ```bash
    docker-compose up -d
 
+<h2>✍️ Autor</h2>
+
+<a href="https://github.com/Felps3296">
+  <img loading="lazy" src="https://avatars.githubusercontent.com/u/64935845?v=4" width="115" alt="Felipe Viana Reis">
+</a>
+<br>
+<sub><b>Felipe Viana Reis</b></sub>
+<br>
+
